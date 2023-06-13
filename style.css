@@ -13,10 +13,9 @@ p {
 padding:20px }
 
 #name {border-radius:2em; margin-bottom: 15px}
-.navigationlinks{text-decoration: none; text-decoration-color: chartreuse}
 /* Section 1: Selectors in CSS + Box Model */
 /* target all <p> tags within a <div> and make the text red */
-li a { text-decoration: none; text-decoration: lightseagreen;
+nav ul li a {text-decoration: none; text-decoration-color: darkviolet;
 }
 
 .inline block {padding: 5px}
